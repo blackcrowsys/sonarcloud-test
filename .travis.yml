@@ -5,7 +5,7 @@ addons:
   sonarcloud:
     organization: "b6u5rejenxudr8yva"
     token:
-      secure: "your_token_encrypted_with_travis_encrypt_tool"
+      secure: "RgmhSu8MV+4geRL7gc0RWVkOIfdd1PxvuOhiKAjk+3mxfgS3pE4MLORNUVV+L+g7mfwqXYUk3CtIEv2ZoL+d3fEXNM7rfYMKL5gakGJxGzPMQn92LXQVBEShm9y+3SQJFInskYFNEUyQc+lcndnjVo9HU1n14jWIIOYeKQjrSyb3y8n8x5qHWZLbzCJzS6RsWQh0W25V7MPoWNqPBkVlfiyGTM1huqeyfaZAxUrqX8UqCbyxKf6tR1Kdkjy4a5qBEQiWJCgclSMjx06RSLFEcWMn+p7/ASTtMDNlEoNmcSecljr2SU18LAZO960CmtlbX04CeCYa0C7JeTCIopPAJkWUEFXACESoEVGCUmgxhvSmAq7a/Mv4DHtNphk80Vq4IrGlI/xIQ0EoMlwGHJBUlkwSBjRBZ7eu0lAdDKquqJmGPw7XFosHbieNj1O2zJ4xnWSVuwmDlZWMjpHjf8Z/Xbtt4ncFPYKYE/44J2SOtiHI6DyiyrElepvR3gb4VZdSOYL1UbbDpO/BcybMGk3wH5do3GrwuTU/dx0tTZG667ObQ/33exYW7dUQODhBgB1bG8z8ablGtMGRxas3GSmXy0OnpjCJgHdksrDTy9vAMzjIj8fwjhj1AM5LVzdCxlEpCTie5e7quqMKUeS4CNrUU8chLJzsfpVesb3ZymkLV84="
 jdk:
   - oraclejdk8
 script:
